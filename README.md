@@ -1,1 +1,1 @@
-# Hemal-PMGSY-Scheme-Classifier
+# PMGSY-Scheme-Classifier
